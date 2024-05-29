@@ -1,11 +1,3 @@
-/* --------------------------------------
-@Author: ThemeMascot
-@URL: http://themeforest.net/user/ThemeMascot
-
-Default COLOR :  Color Set 1
-COLOR CODE1: #212331 
-COLOR CODE2: #000fe6
------------------------------------------ */
 /*
  * background: theme-color
  * -----------------------------------------------
@@ -1483,7 +1475,7 @@ fieldset[disabled] .btn-theme-colored2.focus {
   color: #000fe6;
 }
 .about-video:hover .video-button {
-  background-color: rgba(165, 28, 35, 0.9);
+  background-color: #000fe6;
 }
 .btn-theme-colored2 {
   background-color: #000fe6;
